@@ -40,8 +40,6 @@ class AddRecipeView extends View {
   _generateMarkup() {
   }
 }
-const newFeature = function() {
-  console.log('Welcome to the application');
-}
+
 
 export default new AddRecipeView();
