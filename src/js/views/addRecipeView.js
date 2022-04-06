@@ -37,8 +37,6 @@ class AddRecipeView extends View {
     })
   }
 
-  _generateMarkup() {
-  }
 }
 
 
